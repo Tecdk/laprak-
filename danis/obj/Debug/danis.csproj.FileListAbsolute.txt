@@ -1,0 +1,6 @@
+D:\INFORMATIKA\semester 2\Pemograman\danis\danis\bin\Debug\danis.exe.config
+D:\INFORMATIKA\semester 2\Pemograman\danis\danis\bin\Debug\danis.exe
+D:\INFORMATIKA\semester 2\Pemograman\danis\danis\bin\Debug\danis.pdb
+D:\INFORMATIKA\semester 2\Pemograman\danis\danis\obj\Debug\danis.csprojResolveAssemblyReference.cache
+D:\INFORMATIKA\semester 2\Pemograman\danis\danis\obj\Debug\danis.exe
+D:\INFORMATIKA\semester 2\Pemograman\danis\danis\obj\Debug\danis.pdb
